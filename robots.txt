@@ -1,0 +1,6 @@
+Contact: mailto:security@qqyinyue.org
+Expires: 2027-03-19T00:00:00.000Z
+Preferred-Languages: zh-CN, en
+Canonical: https://qqyinyue.org/.well-known/security.txt
+Policy: https://qqyinyue.org/privacy-policy/
+Acknowledgments: https://qqyinyue.org/

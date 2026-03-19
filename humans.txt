@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# 建议屏蔽后台、缓存与无价值参数页
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /cgi-bin/
+Disallow: /trackback/
+Disallow: /?s=
+Disallow: /*?replytocom=
+Disallow: /*?amp=
+Disallow: /*?output=
+
+# 若有真实 sitemap，请替换为你的实际地址
+Sitemap: https://qqyinyue.org/sitemap.xml
